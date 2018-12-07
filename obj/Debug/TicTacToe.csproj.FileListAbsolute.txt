@@ -1,0 +1,13 @@
+c:\users\user\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+c:\users\user\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+c:\users\user\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+c:\users\user\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+c:\users\user\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+c:\users\user\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+c:\users\user\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+c:\users\user\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+c:\users\user\source\repos\TicTacToe\TicTacToe\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+c:\users\user\source\repos\TicTacToe\TicTacToe\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\User\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CopyComplete
